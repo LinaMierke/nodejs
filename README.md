@@ -17,7 +17,7 @@ Udemy NodeJS class. I want to understand NodeJs in a deeper level and learn auth
 ## Authors
 
 Lina Mierke
-linamirke@gmail.com
+linamierke@gmail.com
 
 ## License
 
