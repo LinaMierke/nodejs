@@ -27,4 +27,4 @@ This project is licensed under the [LinaMierke] License - see the LICENSE.md fil
 
 Inspiration, code snippets, etc.
 
-- 50days/50challenges (https://www.udemy.com/course/nodejs)
+- NodeJs, express, mongoose (https://www.udemy.com/course/nodejs)
